@@ -22,17 +22,12 @@ Após o registro, o jogador será notificado de que sua conta foi criada com suc
 
 ![Registro Bem-Sucedido](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/2.webp)
 
-### 3. Registro Bem-Sucedido
-Jogadores já registrados receberão uma mensagem solicitando que façam login com o comando `/login <senha>`.
-
-![Solicitação de Login](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/4.webp)
-
-### 4. Login Bem-Sucedido
+### 3. Login Bem-Sucedido
 Após fazer login corretamente, o jogador será informado de que está autenticado e poderá se mover livremente.
 
 ![Login Bem-Sucedido](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/5.webp)
 
-### 5. Jogador Autenticado
+### 4. Jogador Autenticado
 Depois de autenticado, o jogador é teletransportado de volta para sua posição original, podendo explorar o servidor normalmente.
 
 ![Jogador Autenticado](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/6.webp)
