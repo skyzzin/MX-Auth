@@ -25,12 +25,14 @@ Após o registro, o jogador será notificado de que sua conta foi criada com suc
 ### 3. Login Bem-Sucedido
 Após fazer login corretamente, o jogador será informado de que está autenticado e poderá se mover livremente.
 
-![Login Bem-Sucedido](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/5.webp)
+![Login Bem-Sucedido](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/4.webp)
 
 ### 4. Login Mal-Sucedido
 Caso o jogador coloque os dados errados vera uma tela de falha
 
 ![Jogador Autenticado](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/6.webp)
+
+
 
 ## Comandos
 
