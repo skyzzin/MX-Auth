@@ -27,8 +27,8 @@ Após fazer login corretamente, o jogador será informado de que está autentica
 
 ![Login Bem-Sucedido](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/5.webp)
 
-### 4. Jogador Autenticado
-Depois de autenticado, o jogador é teletransportado de volta para sua posição original, podendo explorar o servidor normalmente.
+### 4. Login Mal-Sucedido
+Caso o jogador coloque os dados errados vera uma tela de falha
 
 ![Jogador Autenticado](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/6.webp)
 
