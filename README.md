@@ -52,10 +52,9 @@ O plugin não requer configuração inicial, mas opções avançadas podem ser a
 
 ## Requisitos
 
-- Servidor Minecraft Spigot 1.16 ou superior.
-- Java 8 ou superior.
-
-## Contribuição
+- Servidor Minecraft Spigot 1.21 ou superior.
+- Java 21
+- ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues no repositório oficial.
 
