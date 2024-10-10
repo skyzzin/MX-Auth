@@ -1,5 +1,5 @@
 # MX-Auth - Plugin de Autenticação para Minecraft Spigot
-## ![Click Aqui Para Baixar](https://github.com/skyzzin/MX-Auth/raw/refs/heads/master/MX-AUTH.jar)
+## !()[Click Aqui Para Baixar](https://github.com/skyzzin/MX-Auth/raw/refs/heads/master/MX-AUTH.jar)
 MX-Auth é um plugin de autenticação para servidores Minecraft Spigot que permite proteger sua conta com uma senha personalizada. Ele é ideal para servidores offline, onde a verificação de autenticação é essencial para garantir que os jogadores não utilizem nomes de outros jogadores.
 
 ## Funcionalidades
