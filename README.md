@@ -12,9 +12,6 @@ MX-Auth é um plugin de autenticação para servidores Minecraft Spigot que perm
 
 ## Imagens do Processo
 
-
-![Tela de Boas-Vindas](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/1.webp)
-
 ### 1. Solicitação de Registro
 Se o jogador ainda não tiver uma conta, ele será solicitado a criar uma com o comando `/register <senha> <senha>`.
 
