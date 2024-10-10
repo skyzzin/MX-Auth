@@ -12,32 +12,30 @@ MX-Auth é um plugin de autenticação para servidores Minecraft Spigot que perm
 
 ## Imagens do Processo
 
-### 1. Tela de Boas-Vindas
-Quando um novo jogador entra no servidor, ele recebe uma mensagem para se registrar, caso ainda não tenha uma conta.
 
 ![Tela de Boas-Vindas](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/1.webp)
 
-### 2. Solicitação de Registro
+### 1. Solicitação de Registro
 Se o jogador ainda não tiver uma conta, ele será solicitado a criar uma com o comando `/register <senha> <senha>`.
 
-![Solicitação de Registro](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/3.webp)
+![Solicitação de Registro](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/1.webp)
 
-### 3. Registro Bem-Sucedido
+### 2. Registro Bem-Sucedido
 Após o registro, o jogador será notificado de que sua conta foi criada com sucesso.
 
 ![Registro Bem-Sucedido](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/2.webp)
 
-### 4. Solicitação de Login
+### 3. Solicitação de Login
 Jogadores já registrados receberão uma mensagem solicitando que façam login com o comando `/login <senha>`.
 
 ![Solicitação de Login](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/4.webp)
 
-### 5. Login Bem-Sucedido
+### 4. Login Bem-Sucedido
 Após fazer login corretamente, o jogador será informado de que está autenticado e poderá se mover livremente.
 
 ![Login Bem-Sucedido](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/5.webp)
 
-### 6. Jogador Autenticado
+### 5. Jogador Autenticado
 Depois de autenticado, o jogador é teletransportado de volta para sua posição original, podendo explorar o servidor normalmente.
 
 ![Jogador Autenticado](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/6.webp)
