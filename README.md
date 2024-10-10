@@ -20,12 +20,12 @@ Quando um novo jogador entra no servidor, ele recebe uma mensagem para se regist
 ### 2. Solicitação de Registro
 Se o jogador ainda não tiver uma conta, ele será solicitado a criar uma com o comando `/register <senha> <senha>`.
 
-![Solicitação de Registro](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/2.webp)
+![Solicitação de Registro](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/3.webp)
 
 ### 3. Registro Bem-Sucedido
 Após o registro, o jogador será notificado de que sua conta foi criada com sucesso.
 
-![Registro Bem-Sucedido](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/3.webp)
+![Registro Bem-Sucedido](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/2.webp)
 
 ### 4. Solicitação de Login
 Jogadores já registrados receberão uma mensagem solicitando que façam login com o comando `/login <senha>`.
