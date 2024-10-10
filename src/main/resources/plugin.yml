@@ -1,0 +1,14 @@
+name: mx_auth
+version: '1.0-SNAPSHOT'
+main: org.skyzzin.mx_auth.Mx_auth
+api-version: '1.21'
+authors: [ Skyzzin ]
+description: Plugin De Autenticação
+commands:
+  login:
+    description: Comando De Login
+    usage: /login password
+
+  register:
+    description: Comando De Registro
+    usage: /register password password
