@@ -17,12 +17,12 @@ Se o jogador ainda não tiver uma conta, ele será solicitado a criar uma com o 
 
 ![Solicitação de Registro](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/1.webp)
 
-### 2. Registro Bem-Sucedido
+### 2.  Solicitação de Login
 Após o registro, o jogador será notificado de que sua conta foi criada com sucesso.
 
 ![Registro Bem-Sucedido](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/2.webp)
 
-### 3. Solicitação de Login
+### 3. Registro Bem-Sucedido
 Jogadores já registrados receberão uma mensagem solicitando que façam login com o comando `/login <senha>`.
 
 ![Solicitação de Login](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/4.webp)
