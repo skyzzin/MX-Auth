@@ -57,7 +57,3 @@ O plugin não requer configuração inicial, mas opções avançadas podem ser a
 - ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues no repositório oficial.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
