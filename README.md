@@ -1,5 +1,5 @@
 # MX-Auth - Plugin de Autenticação para Minecraft Spigot
-
+## [Click Aqui Para Baixar](https://github.com/skyzzin/MX-Auth/raw/refs/heads/master/MX-AUTH.jar)
 MX-Auth é um plugin de autenticação para servidores Minecraft Spigot que permite proteger sua conta com uma senha personalizada. Ele é ideal para servidores offline, onde a verificação de autenticação é essencial para garantir que os jogadores não utilizem nomes de outros jogadores.
 
 ## Funcionalidades
@@ -15,22 +15,22 @@ MX-Auth é um plugin de autenticação para servidores Minecraft Spigot que perm
 ### 1. Solicitação de Registro
 Se o jogador ainda não tiver uma conta, ele será solicitado a criar uma com o comando `/register <senha> <senha>`.
 
-![Solicitação de Registro](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/1.webp)
+![Solicitação de Registro](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/1.png)
 
 ### 2.  Solicitação de Login
 Após o registro, o jogador será notificado de que sua conta foi criada com sucesso.
 
-![Registro Bem-Sucedido](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/2.webp)
+![Registro Bem-Sucedido](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/2.png)
 
 ### 3. Login Bem-Sucedido
 Após fazer login corretamente, o jogador será informado de que está autenticado e poderá se mover livremente.
 
-![Login Bem-Sucedido](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/4.webp)
+![Login Bem-Sucedido](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/4.png)
 
 ### 4. Login Mal-Sucedido
 Caso o jogador coloque os dados errados vera uma tela de falha
 
-![Jogador Autenticado](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/6.webp)
+![Jogador Autenticado](https://github.com/skyzzin/MX-Auth/blob/master/readme_files/6.png)
 
 
 
@@ -57,7 +57,3 @@ O plugin não requer configuração inicial, mas opções avançadas podem ser a
 - ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues no repositório oficial.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
